@@ -1,3 +1,10 @@
+# Sarthak's First CS193 Homework
+Favourite things about CS 193:
+- 193 is prime
+- github is nice
+- its so far from my dorm
+- we learn useful stuff
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
